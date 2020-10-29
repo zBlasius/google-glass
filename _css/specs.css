@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+section#conteudo {
+	width: 1000px;
+	margin:auto;   /* conteudo centralizado */
+}
+
+iframe#frame-spec {
+	width: 400px;
+	height: 280px;
+	border:none;
+	
+}
+
+section#conteudo img#esquema-marcado {
+	margin-right:80px;
+}
